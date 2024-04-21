@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArraySequence&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAABIAAAAgBABABAiAAAAAAAAAAQAAAAAAAQAAAAA=</HashCode>
+      <FileName>ArraySequence.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DynamicArray&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABADEAAAAAAAAAAEAAAAAAABQAAEAAAI=</HashCode>
+      <FileName>DynamicArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedList&lt;T&gt;">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIAgAAgDABABACABAAAAAEAAQAAAABAAQAAAgA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedListSequence&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABIAAAAgBABABACAAAAAAAACAQAAAAAAAQAAAAA=</HashCode>
+      <FileName>LinkedListSequence.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
